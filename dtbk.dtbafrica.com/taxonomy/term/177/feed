@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/177">
+  <channel>
+    <title>treasury</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/177</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Treasury</title>
+  <link>https://dtbk.dtbafrica.com/service/treasury_service</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Treasury&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/176" hreflang="en"&gt;Treasury&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 01/13/2020 - 13:48&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Let our team of experts guide you through forex trading thanks to their wealth of knowledge on local and global markets.&lt;/p&gt;
+
+&lt;p&gt;Take advantage of our competitive exchange rates for the below currencies:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;U.S Dollar (USD)&lt;/li&gt;
+	&lt;li&gt;Euro (EUR),&lt;/li&gt;
+	&lt;li&gt;Japanese Yen (JPY)&lt;/li&gt;
+	&lt;li&gt;Tanzania Shilling (TZS)&lt;/li&gt;
+	&lt;li&gt;United Arab Emirates Dirham (AED)&lt;/li&gt;
+	&lt;li&gt;Canadian Dollar (CAD)&lt;/li&gt;
+	&lt;li&gt;Indian Rupee (INR)&lt;/li&gt;
+	&lt;li&gt;Pakistan Rupee (PKR)&lt;/li&gt;
+	&lt;li&gt;Rwandese Francs (RWF)&lt;/li&gt;
+	&lt;li&gt;South African Rand (ZAR)&lt;/li&gt;
+	&lt;li&gt;Uganda Shilling (UGX)&lt;/li&gt;
+	&lt;li&gt;Chinese Yuan (CNY)&lt;/li&gt;
+	&lt;li&gt;Australian Dollar (AUD)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Contact the Treasury team via phone: 0719031210, 020 2849000, 0719 031012 / 123 / 212 / 214 / 216 / 217 / 218 / 219&lt;/p&gt;
+
+&lt;p&gt;Email: &lt;a href="mailto: trs@dtbafrica.com"&gt;trs@dtbafrica.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-4"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading4One"&gt;
+&lt;h5 aria-controls="collapse4One" aria-expanded="false" class="btn-link" data-target="#collapse4One" data-toggle="collapse"&gt;Spot Forex (cross currency)&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading4One" class="collapse" data-parent="#accordion-4" id="collapse4One"&gt;
+&lt;div class="card-body"&gt;
+&lt;p&gt;&lt;span&gt;Manage your future cash flow requirements by taking advantage of our current competitive exchange rates. Our flexibility allows you to confirm your transaction and settle within 48 hours.&lt;/span&gt;&lt;/p&gt;
+&lt;span&gt;&lt;b&gt;Benefits:&lt;/b&gt;&lt;/span&gt;
+
+&lt;ul&gt;&lt;li&gt;Access competitive forex rates&lt;/li&gt;
+	&lt;li&gt;Negotiate rates to your preference&lt;/li&gt;
+	&lt;li&gt;Send or receive money in your preferred currency&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading4Two"&gt;
+&lt;h5 aria-controls="collapse4Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse4Two" data-toggle="collapse"&gt;Forward Forex&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading4Two" class="collapse" data-parent="#accordion-4" id="collapse4Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;p&gt;&lt;span&gt;Enjoy the flexibility of fixing your exchange rate today for settlement in future.&lt;/span&gt;&lt;/p&gt;
+&lt;span&gt;&lt;b&gt;Benefits:&lt;/b&gt;&lt;/span&gt;
+
+&lt;ul&gt;&lt;li&gt;Protection against forex rate fluctuations&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading4Three"&gt;
+&lt;h5 aria-controls="collapse4Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse4Three" data-toggle="collapse"&gt;Money Market Services&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading4Three" class="collapse" data-parent="#accordion-4" id="collapse4Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;p&gt;&lt;span&gt;Invest your hard earned money with the help of our money market experts. Choose between call / fixed deposits and treasury bills / bonds.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+        &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/177" hreflang="en"&gt;treasury&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 13 Jan 2020 10:48:55 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1035 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

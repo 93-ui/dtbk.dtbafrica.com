@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/2">
+  <channel>
+    <title>savings_account</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/2</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Just 4 Me Account</title>
+  <link>https://dtbk.dtbafrica.com/savings/savings/just_4_me</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Just 4 Me Account&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/89" hreflang="en"&gt;Just 4 Me Account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 05/28/2019 - 15:24&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;This is a tailor-made account designed to help you and your children save for a brighter future! Apart from interest being credited half-yearly, Just4Me account holders also enjoy up to four free withdrawals and four free banker’s cheques per year for school fees.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-9"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading9One"&gt;
+&lt;h5 aria-controls="collapse9One" aria-expanded="false" class="btn-link" data-target="#collapse9One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading9One" class="collapse" data-parent="#accordion-9" id="collapse9One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;No ledger fees&lt;/li&gt;
+	&lt;li&gt;Free monthly e-statements&lt;/li&gt;
+	&lt;li&gt;No account maintenance fee&lt;/li&gt;
+	&lt;li&gt;One free withdrawal and one free banker’s cheque respectively per quarter&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading9Two"&gt;
+&lt;h5 aria-controls="collapse9Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse9Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading9Two" class="collapse" data-parent="#accordion-9" id="collapse9Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency - Kenya shillings&lt;/li&gt;
+	&lt;li&gt;Opening amount - nil&lt;/li&gt;
+	&lt;li&gt;Minimum balance - Kshs 1,000&lt;/li&gt;
+	&lt;li&gt;Competitive interest rate on balances over Kshs 1,000&lt;/li&gt;
+	&lt;li&gt;Channels / account &amp; information access - internet banking (optional), mobile banking (optional), e-statements&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading9Three"&gt;
+&lt;h5 aria-controls="collapse9Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse9Three" data-toggle="collapse"&gt;Charges&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading9Three" class="collapse" data-parent="#accordion-9" id="collapse9Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;0.25% cash handling fee (over Kshs. 1 million)&lt;/li&gt;
+	&lt;li&gt;Monthly maintenance fee - nil&lt;/li&gt;
+	&lt;li&gt;Ledger fee - nil&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Note: * All charges are subject to applicable tax&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;10&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/2" hreflang="en"&gt;savings_account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-09/Individual%20Account%20Opening%20Form_3.pdf" type="application/pdf; length=627578" title="Individual Account Opening Form_3.pdf"&gt;Download Individual Account Opening Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 28 May 2019 12:24:11 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">587 at https://dtbk.dtbafrica.com</guid>
+    </item>
+<item>
+  <title>DTB Prime Dollar, Euro and Sterling Savings accounts</title>
+  <link>https://dtbk.dtbafrica.com/savings/savings/prime_savings_account</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DTB Prime Dollar, Euro and Sterling Savings accounts&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/9" hreflang="en"&gt;DTB Prime Dollar, Euro and Sterling Savings accounts&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 05/28/2019 - 15:19&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;These accounts are best suited for accumulating savings in foreign currency deposits. To view the applicable foreign currencies, please check out the product features section below.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="headingOne"&gt;
+&lt;h5 aria-controls="collapseOne" aria-expanded="false" class="btn-link" data-target="#collapseOne" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="headingOne" class="collapse" data-parent="#accordion" id="collapseOne"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;No ledger fees&lt;/li&gt;
+	&lt;li&gt;Free monthly e-statements&lt;/li&gt;
+	&lt;li&gt;No account maintenance fee&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="headingTwo"&gt;
+&lt;h5 aria-controls="collapseTwo" aria-expanded="false" class="btn-link collapsed" data-target="#collapseTwo" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="headingTwo" class="collapse" data-parent="#accordion" id="collapseTwo"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency - US Dollars (USD), Euro (EUR) and Great Britain Pounds (GBP)&lt;/li&gt;
+	&lt;li&gt;Opening amount - nil&lt;/li&gt;
+	&lt;li&gt;Minimum balance - 1,000 (USD, GBP or EUR )&lt;/li&gt;
+	&lt;li&gt;Channels / account &amp; information access - internet banking (optional), e-statements&lt;/li&gt;
+	&lt;li&gt;Attractive interest rate on balances over USD 1,000&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="headingThree"&gt;
+&lt;h5 aria-controls="collapseThree" aria-expanded="false" class="btn-link collapsed" data-target="#collapseThree" data-toggle="collapse"&gt;Charges&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="headingThree" class="collapse" data-parent="#accordion" id="collapseThree"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Deposit / withdrawal charges - N/A&lt;/li&gt;
+	&lt;li&gt;Cash handling fee - 0.5% on amounts equivalent or above 5,000 (USD, GBP or EUR )&lt;/li&gt;
+	&lt;li&gt;Minimum monthly fee - nil&lt;/li&gt;
+	&lt;li&gt;Ledger fee (per transaction) - nil&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;9&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/2" hreflang="en"&gt;savings_account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-09/Individual%20Account%20Opening%20Form_1.pdf" type="application/pdf; length=627578" title="Individual Account Opening Form_1.pdf"&gt;Download Individual Account Opening Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 28 May 2019 12:19:37 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">586 at https://dtbk.dtbafrica.com</guid>
+    </item>
+<item>
+  <title>DTB Savings Account</title>
+  <link>https://dtbk.dtbafrica.com/savings/savings/savings_account</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DTB Savings Account&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/8" hreflang="en"&gt;DTB Savings Account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 05/28/2019 - 15:16&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;The DTB Savings Account is designed for individuals who would like to save for their future and enjoy earning interest every half-year. The account enjoys a zero maintenance fee and a Mastercard debit card.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-8"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading8One"&gt;
+&lt;h5 aria-controls="collapse8One" aria-expanded="false" class="btn-link" data-target="#collapse8One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading8One" class="collapse" data-parent="#accordion-8" id="collapse8One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;No ledger fees&lt;/li&gt;
+	&lt;li&gt;Free monthly e-statements&lt;/li&gt;
+	&lt;li&gt;Interest is calculated and credited half-yearly&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading8Two"&gt;
+&lt;h5 aria-controls="collapse8Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse8Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading8Two" class="collapse" data-parent="#accordion-8" id="collapse8Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency - Kenya shillings&lt;/li&gt;
+	&lt;li&gt;Opening amount - nil&lt;/li&gt;
+	&lt;li&gt;Minimum balance - Kshs. 1,000&lt;/li&gt;
+	&lt;li&gt;Competitive interest rate on balances over Kshs 1,000 &lt;/li&gt;
+	&lt;li&gt;Channels / account &amp; information access - mobile banking, internet banking, e-statements&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading8Three"&gt;
+&lt;h5 aria-controls="collapse8Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse8Three" data-toggle="collapse"&gt;Charges&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading8Three" class="collapse" data-parent="#accordion-8" id="collapse8Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Debit card:
+	&lt;ul&gt;&lt;li&gt;Mastercard gold Kshs. 500&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Card replacement - Kshs. 600&lt;/li&gt;
+	&lt;li&gt;Withdrawal fees:
+	&lt;ul&gt;&lt;li&gt;Withdrawals from DTB ATMs - Kshs. 30&lt;/li&gt;
+		&lt;li&gt;Withdrawals from Pesa Point and Kenswitch ATMs - Kshs. 70&lt;/li&gt;
+		&lt;li&gt;Withdrawals from all other bank ATMs - Kshs. 200&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Cash handling fee - nil&lt;/li&gt;
+	&lt;li&gt;Ledger fees - nil&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Note: * All charges are subject to applicable tax&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;8&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/2" hreflang="en"&gt;savings_account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-09/Individual%20Account%20Opening%20Form_2.pdf" type="application/pdf; length=627578" title="Individual Account Opening Form_2.pdf"&gt;Download Individual Account Opening Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 28 May 2019 12:16:28 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">585 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

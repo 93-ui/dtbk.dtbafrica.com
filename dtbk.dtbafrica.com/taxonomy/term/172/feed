@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/172">
+  <channel>
+    <title>Beba Leo</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/172</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Beba Leo</title>
+  <link>https://dtbk.dtbafrica.com/loans/beba_leo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Beba Leo&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/172" hreflang="en"&gt;Beba Leo&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 12/06/2019 - 17:57&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Beba Leo is a vehicle financing scheme by DTB that enables SME’s to acquire brand new vehicles for either business or family use.&lt;/p&gt;
+
+&lt;p&gt;Under the Beba Leo scheme, SME clients can buy brand new Toyota Hilux, Toyota Rush or Fuso FI truck with 100% financing from DTB.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-2"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2One"&gt;
+&lt;h5 aria-contableols="collapse2One" aria-expanded="false" class="btn-link" data-target="#collapse2One" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2One" class="collapse" data-parent="#accordion-2" id="collapse2One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;100% financing from DTB&lt;/li&gt;
+	&lt;li&gt;forty-eight Month repayment period&lt;/li&gt;
+	&lt;li&gt;Free one-year comprehensive insurance&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2Two"&gt;
+&lt;h5 aria-contableols="collapse2Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse2Two" data-toggle="collapse"&gt;Toyota Rush&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2Two" class="collapse" data-parent="#accordion-2" id="collapse2Two"&gt;
+&lt;div class="card-body"&gt;&lt;span&gt;Get 100% financing for a brand new Toyota Rush. Features of the Toyota Rush are:&lt;/span&gt;
+
+&lt;ul&gt;&lt;li&gt;Seven seater&lt;/li&gt;
+	&lt;li&gt;High ground clearance&lt;/li&gt;
+	&lt;li&gt;Amazing fuel efficiency&lt;/li&gt;
+	&lt;li&gt;Good safety features&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2Three"&gt;
+&lt;h5 aria-contableols="collapse2Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse2Three" data-toggle="collapse"&gt;Toyota Hilux&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2Three" class="collapse" data-parent="#accordion-2" id="collapse2Three"&gt;
+&lt;div class="card-body"&gt;&lt;span&gt;Get 100% financing for a brand new Toyota Hilux. Features of the Toyota Hilux are:&lt;/span&gt;
+
+&lt;ul&gt;&lt;li&gt;Biggest cargo space&lt;/li&gt;
+	&lt;li&gt;Amazing fuel efficiency&lt;/li&gt;
+	&lt;li&gt;High resale value&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2Four"&gt;
+&lt;h5 aria-contableols="collapse2Four" aria-expanded="false" class="btn-link collapsed" data-target="#collapse2Four" data-toggle="collapse"&gt;Fuso FI truck&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2Four" class="collapse" data-parent="#accordion-2" id="collapse2Four"&gt;
+&lt;div class="card-body"&gt;&lt;span&gt;Get 100% financing for a brand new Fuso FI truck. Features of the Fuso FI truck are:&lt;/span&gt;
+
+&lt;ul&gt;&lt;li&gt;Four-year warranty&lt;/li&gt;
+	&lt;li&gt;15,000Km service interval&lt;/li&gt;
+	&lt;li&gt;Amazing fuel economy&lt;/li&gt;
+	&lt;li&gt;Longer Chassis and higher ground clearance&lt;/li&gt;
+	&lt;li&gt;170 BHP-intercooled turbocharged engine&lt;/li&gt;
+	&lt;li&gt;Air brakes&lt;/li&gt;
+	&lt;li&gt;Spacious and comfortable cabin&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      </description>
+  <pubDate>Fri, 06 Dec 2019 14:57:30 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1029 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

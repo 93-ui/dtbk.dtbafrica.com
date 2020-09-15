@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/93">
+  <channel>
+    <title>term</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/93</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Term Loan</title>
+  <link>https://dtbk.dtbafrica.com/loans/term_facilities</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Term Loan&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/100" hreflang="en"&gt;Term Loan&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 08/26/2019 - 13:34&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;This is a secured facility designed to finance both individuals and businesses. With affordable monthly or quarterly installments of up to a hundred and twenty months, we enable you to achieve life and business goals with ease.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-4"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading4Two"&gt;
+&lt;h5 aria-controls="collapse4Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse4Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading4Two" class="collapse" data-parent="#accordion-4" id="collapse4Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Purpose - capital expenditure / working capital&lt;/li&gt;
+	&lt;li&gt;Currency - LCY / FCY&lt;/li&gt;
+	&lt;li&gt;Maximum credit limit - subject to appraisal&lt;/li&gt;
+	&lt;li&gt;Repayment period (loan period) - maximum of a hundred and twenty months&lt;/li&gt;
+	&lt;li&gt;Interest rate - CBR + 4% (LCY)&lt;/li&gt;
+	&lt;li&gt;Fees - appraisal fees 2% and 1% on anniversary&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading4Three"&gt;
+&lt;h5 aria-controls="collapse4Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse4Three" data-toggle="collapse"&gt;Requirements&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading4Three" class="collapse" data-parent="#accordion-4" id="collapse4Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Individuals / sole proprietors / partnerships&lt;/strong&gt;
+
+	&lt;ul&gt;&lt;li&gt;National identity card / passport / KRA PIN certificate of individual borrowers - original and copy&lt;/li&gt;
+		&lt;li&gt;Certificate of registration (if proprietor or partnership)&lt;/li&gt;
+		&lt;li&gt;Latest bank statements for the last six months&lt;/li&gt;
+		&lt;li&gt;Copy of LOF and account status in respect of loans / other facilities from other banks if any&lt;/li&gt;
+		&lt;li&gt;Security details: -&lt;br /&gt;
+		1. If motor vehicle, copy of logbook, copy of valuation report if any&lt;br /&gt;
+		2. If FDR, details of fixed deposit&lt;br /&gt;
+		3. If property, copy of title, copy of valuation report, details of the property, guarantor’s details if any&lt;br /&gt;
+		4. Request should contain the need and purpose of the loan with a justification on economic return&lt;br /&gt;
+		5. Details of assets to acquire and cost&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Companies&lt;/strong&gt;
+	&lt;ul&gt;&lt;li&gt;National identity card / passport / KRA PIN certificate of borrowers - original and copy&lt;/li&gt;
+		&lt;li&gt;Copy of LOF and account status in respect of loans / other facilities from other banks if any&lt;/li&gt;
+		&lt;li&gt;Certified copy of memorandum and articles of association&lt;/li&gt;
+		&lt;li&gt;Certified copy of the resolution authorising borrowing from DTB&lt;/li&gt;
+		&lt;li&gt;Audited accounts for the last three years together with a copy of the latest management accounts&lt;/li&gt;
+		&lt;li&gt;Schedule of debtors and creditors as per the latest management accounts – age-wise&lt;/li&gt;
+		&lt;li&gt;Financial projections and plans for the business i.e. cash flow month by month for the next twelve months&lt;/li&gt;
+		&lt;li&gt;Valuation report(s), if available and copy of the document evidencing ownership of the asset offered as security&lt;/li&gt;
+		&lt;li&gt;Copies of bank account statements for the last twelve months&lt;/li&gt;
+		&lt;li&gt;Organization chart and employees’ statistics CVs of the promoters and top management on the lines of format&lt;/li&gt;
+		&lt;li&gt;Company profile&lt;/li&gt;
+		&lt;li&gt;Present marketing set-up and strategies adopted/introduced to increase the sales volume&lt;/li&gt;
+		&lt;li&gt;Sales target for the current year with projected profit &amp; loss and balance sheet&lt;/li&gt;
+		&lt;li&gt;List of major customers and suppliers&lt;/li&gt;
+		&lt;li&gt;Volume of orders and enquiries on hand, as on date&lt;/li&gt;
+		&lt;li&gt;Request should contain the need and purpose of the loan with a justification on economic return&lt;/li&gt;
+		&lt;li&gt;Details of assets to acquire and cost&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Other terms and conditions&lt;/strong&gt;
+	&lt;ul&gt;&lt;li&gt;Construction loans&lt;/li&gt;
+		&lt;li&gt;Bill of quantities&lt;/li&gt;
+		&lt;li&gt;CVs of the professionals involved in the project&lt;/li&gt;
+		&lt;li&gt;Approvals from NEMA and other authorities&lt;/li&gt;
+		&lt;li&gt;Profiles of promoters in relation to projects of similar nature&lt;/li&gt;
+		&lt;li&gt;Feasibility - marketing plan, SWOT analysis, projections&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;4&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/93" hreflang="en"&gt;term&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 26 Aug 2019 10:34:43 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">599 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

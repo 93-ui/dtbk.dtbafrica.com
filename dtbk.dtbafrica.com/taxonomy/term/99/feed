@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/99">
+  <channel>
+    <title>Mortgage</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/99</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Mortgage</title>
+  <link>https://dtbk.dtbafrica.com/loans/morgage_facilities</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Mortgage&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/99" hreflang="en"&gt;Mortgage&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 05/31/2019 - 11:33&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Start the journey to homeownership with a DTB Mortgage! This product is available to both employed and self-employed individuals and has a twenty year repayment period.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-3"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading3Two"&gt;
+&lt;h5 aria-controls="collapse3Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse3Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading3Two" class="collapse" data-parent="#accordion-3" id="collapse3Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Purpose:
+	&lt;ul&gt;&lt;li&gt;Purchase of new / existing residential houses&lt;/li&gt;
+		&lt;li&gt;Renovations, repairs or extensions of existing unencumbered property&lt;/li&gt;
+		&lt;li&gt;The takeover of existing housing loans from other financial institutions&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Location - properties located in cities and major municipalities&lt;/li&gt;
+	&lt;li&gt;Currency - LCY&lt;/li&gt;
+	&lt;li&gt;Minimum credit limit - Kshs. 1 million&lt;/li&gt;
+	&lt;li&gt;Maximum credit limit - Kshs. 40 million&lt;/li&gt;
+	&lt;li&gt;Minimum term - one year&lt;/li&gt;
+	&lt;li&gt;Maximum term - twenty years and no later than the 60th birthday or date of retirement whichever comes first&lt;/li&gt;
+	&lt;li&gt;Debt burden ratio - no more than 50% of net salary for salaried individuals&lt;/li&gt;
+	&lt;li&gt;Security/collateral - charge over property&lt;/li&gt;
+	&lt;li&gt;Loan To Value (LTV) ratio of collateral - 90% of cost price / market value whichever is lower&lt;/li&gt;
+	&lt;li&gt;Repayment - monthly principal and interest&lt;/li&gt;
+	&lt;li&gt;Interest rate - CBR + 4% (LCY)&lt;/li&gt;
+	&lt;li&gt;Fees / commission - appraisal fees 2% and 1% on the anniversary&lt;/li&gt;
+	&lt;li&gt;Insurance -
+	&lt;ul&gt;&lt;li&gt;Fire &amp; burglary protection cover&lt;/li&gt;
+		&lt;li&gt;Mortgage protection cover for the borrower&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading3Three"&gt;
+&lt;h5 aria-controls="collapse3Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse3Three" data-toggle="collapse"&gt;Requirements&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading3Three" class="collapse" data-parent="#accordion-3" id="collapse3Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;For employees&lt;/strong&gt;
+
+	&lt;ul&gt;&lt;li&gt;Copy of PIN &amp; national ID&lt;/li&gt;
+		&lt;li&gt;Must have worked with their current employers for two years&lt;/li&gt;
+		&lt;li&gt;Must be confirmed in their present positions&lt;/li&gt;
+		&lt;li&gt;Must open / maintain account(s) with DTB where their salary is channeled by their employer&lt;/li&gt;
+		&lt;li&gt;Statement of net asset &amp; income&lt;/li&gt;
+		&lt;li&gt;Reference letter from employer and / or bankers&lt;/li&gt;
+		&lt;li&gt;Bank statements for the last twelve months&lt;/li&gt;
+		&lt;li&gt;Last repayment date not to exceed the retirement age or their 60th birthday, whichever comes first&lt;/li&gt;
+		&lt;li&gt;Fill in an application form&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Self-employed &amp; business entities&lt;/strong&gt;
+	&lt;ul&gt;&lt;li&gt;Bank statements for the last twelve months&lt;/li&gt;
+		&lt;li&gt;Must open / maintain account(s) with DTB&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Other terms &amp; conditions applicable&lt;/strong&gt;
+	&lt;ul&gt;&lt;li&gt;Copy of duty executed sale agreement duly signed dated and stamped&lt;/li&gt;
+		&lt;li&gt;Valuation report from an authorised valuer&lt;/li&gt;
+		&lt;li&gt;Letter of the offer between seller &amp; buyer&lt;/li&gt;
+		&lt;li&gt;Certified copy of title deed&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;3&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/92" hreflang="en"&gt;morgage&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 31 May 2019 08:33:56 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">598 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/130">
+  <channel>
+    <title>Mobile Banking</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/130</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Mobile Banking</title>
+  <link>https://dtbk.dtbafrica.com/service/digital-channels/mobile_banking</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Mobile Banking&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/130" hreflang="en"&gt;Mobile Banking&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 06/06/2019 - 11:34&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Transact conveniently via mobile banking on both USSD (*382#) and the DTB m24/7 mobile app available on both the &lt;a href="https://apps.apple.com/us/app/dtb-kenya/id945684151" target="_blank"&gt; Apple Store &lt;/a&gt; and &lt;a href="https://play.google.com/store/apps/details?id=com.dtb.app&amp;hl=en" target="_blank"&gt;Google Play Store.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-1"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1One"&gt;
+&lt;h5 aria-contableols="collapse1One" aria-expanded="false" class="btn-link" data-target="#collapse1One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1One" class="collapse" data-parent="#accordion-1" id="collapse1One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Transact on-the-go from the comfort of your location day and night&lt;/li&gt;
+	&lt;li&gt;Real-time notifications for debit and credit transactions&lt;/li&gt;
+	&lt;li&gt;Facial, fingerprint and PIN transaction authentication is available on the DTB app&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1Two"&gt;
+&lt;h5 aria-contableols="collapse1Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse1Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1Two" class="collapse" data-parent="#accordion-1" id="collapse1Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Balance enquiry - free&lt;/li&gt;
+	&lt;li&gt;Air time top-up - free&lt;/li&gt;
+	&lt;li&gt;Internal funds transfer - Kshs. 15&lt;/li&gt;
+	&lt;li&gt;Bill payment - Kshs. 30&lt;/li&gt;
+	&lt;li&gt;Mini-statement request - free&lt;/li&gt;
+	&lt;li&gt;Debit / credit alerts - free debit alerts, ten  per credit alert&lt;/li&gt;
+	&lt;li&gt;Bank to M-Pesa - Kshs. 60&lt;/li&gt;
+	&lt;li&gt;Masterpass - free&lt;/li&gt;
+	&lt;li&gt;Cheque status - Kshs. 15&lt;/li&gt;
+	&lt;li&gt;Forex viewing - free&lt;/li&gt;
+	&lt;li&gt;Registration requirement - customers who wish to sign up for mobile banking must be DTB account holders&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1Three"&gt;
+&lt;h5 aria-contableols="collapse1Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse1Three" data-toggle="collapse"&gt;Rates&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1Three" class="collapse" data-parent="#accordion-1" id="collapse1Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Pesalink Charges:&lt;/strong&gt;
+
+	&lt;div class="table-responsive"&gt;
+	&lt;table class="table"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;From 1 to 1000&lt;/td&gt;
+				&lt;td&gt;Zero&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 1001 to 10,000&lt;/td&gt;
+				&lt;td&gt;Kshs. 25&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 10,001 to 100,000&lt;/td&gt;
+				&lt;td&gt;Kshs. 35&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 100,000 to 999,999&lt;/td&gt;
+				&lt;td&gt;Kshs. 50&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Note: * All charges are subject to applicable tax&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;1&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/123" hreflang="en"&gt;mobile banking&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-11/Mobile%20Banking%20and%20E-Statement%20Form.pdf" type="application/pdf; length=233303" title="Mobile Banking and E-Statement Form.pdf"&gt;DTB Mobile Banking and E-Statement Application Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Thu, 06 Jun 2019 08:34:41 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">819 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

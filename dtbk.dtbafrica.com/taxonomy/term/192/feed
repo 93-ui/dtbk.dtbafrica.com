@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/192">
+  <channel>
+    <title>Medical Insurance</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/192</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Defender Med</title>
+  <link>https://dtbk.dtbafrica.com/node/1097</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Defender Med&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/191" hreflang="en"&gt;Medical Insurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 07/07/2020 - 09:25&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;This medical insurance is an indemnity for medical expenses incurred following illness, disease or accidents. It covers inpatient (when hospitalized) and outpatient (without hospitalization) for SMEs and individuals.&lt;/p&gt;
+
+&lt;div class="product-desc"&gt;
+&lt;div id="accordion-1"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1One"&gt;
+&lt;h5 aria-contableols="collapse1One" aria-expanded="false" class="btn-link" data-target="#collapse1One" data-toggle="collapse"&gt;Eligibility&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1One" class="collapse" data-parent="#accordion-1" id="collapse1One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul type="none"&gt;&lt;li&gt;SME- An employer of 5-100 employees (flexibility can be granted)
+	&lt;ul type=""&gt;&lt;li&gt;Age 18-65 years (extended to 70 years)&lt;/li&gt;
+		&lt;li&gt;One legal spouse.&lt;/li&gt;
+		&lt;li&gt;Biologically, legally adopted children below 18 years of age (extended to 25 years in full time schooling for SME).&lt;/li&gt;
+		&lt;li&gt;Lodger fee for children below 12 years accommodated&lt;/li&gt;
+		&lt;li&gt;KEPI &amp; Vaccines up to Kshs. 5,000 for children up to 1.5 years&lt;/li&gt;
+		&lt;li&gt;Annual medical check-up up to Kshs. 10,000&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Individual- One person or family (of 1-5)
+	&lt;ul type=""&gt;&lt;li&gt;Age 18-65 years (extended to 70 years)&lt;/li&gt;
+		&lt;li&gt;One legal spouse.&lt;/li&gt;
+		&lt;li&gt;Members between 50 – 65 years to get medical examination at their cost – cover not automatic&lt;/li&gt;
+		&lt;li&gt;Waiting period for illness - 30 days for individuals and 14 days for SME and No waiting period for accident (option to waive if transferred from existing scheme)&lt;/li&gt;
+		&lt;li&gt;Biologically, legally adopted children below 18 years of age (extended to 25 years in full time schooling under SME)&lt;/li&gt;
+		&lt;li&gt;Lodger fee for children below 12 years accommodated&lt;/li&gt;
+		&lt;li&gt;KEPI &amp; Vaccines up to Kshs. 5,000 for children up to 1.5 years&lt;/li&gt;
+		&lt;li&gt;Annual medical check-up up to Kshs. 10,000 for Employee and Spouse under SME.&lt;/li&gt;
+		&lt;li&gt;Pre-existing, Chronic Cases i.e. Maternity– waiting period of 12 months under Individuals.&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1Two"&gt;
+&lt;h5 aria-contableols="collapse1Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse1Two" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1Two" class="collapse" data-parent="#accordion-1" id="collapse1Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Medical Expenses when hospitalized&lt;/li&gt;
+	&lt;li&gt;Treatment without hospitalization&lt;/li&gt;
+	&lt;li&gt;Last expense – free benefit of Kshs. 50,000, Kshs. 75,000 and Kshs. 100,000 payable to next of Kin (with-in 48hrs)&lt;/li&gt;
+	&lt;li&gt;Personal accident cover of Kshs. 500,000 for principal member.&lt;/li&gt;
+	&lt;li&gt;Offer options to purchase separately (Maternity, Dental and Optical)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1Three"&gt;
+&lt;h5 aria-contableols="collapse1Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse1Three" data-toggle="collapse"&gt;Options&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1Three" class="collapse" data-parent="#accordion-1" id="collapse1Three"&gt;
+&lt;div class="card-body"&gt;Not included in the main cover, but insured has an option to purchase separately;
+&lt;ul type="none"&gt;&lt;li&gt;Maternity
+	&lt;ul type=""&gt;&lt;li&gt;Waiting period of 12 months (for individuals), 10 months for SME&lt;/li&gt;
+		&lt;li&gt;Full term baby (36 weeks), normal and C-section, labor, recovery ward, other ailments and complications&lt;/li&gt;
+		&lt;li&gt;Pre-natal &amp; Ante-natal outpatient treatment&lt;/li&gt;
+		&lt;li&gt;Dependent children not eligible for this benefit&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Dental
+	&lt;ul type=""&gt;&lt;li&gt;Includes consultation, X-Rays, Fillings, Extractions, Prescriptions, Surgical, Anesthetic fees but excludes cosmetic treatment, replacement of old dentures, bridges and plates (unless due to accident)&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Optical
+	&lt;ul type=""&gt;&lt;li&gt;Includes consultation, Testing, prescribed glasses, frames (1 pair every two years – maximum Kshs. 10,000), but excludes sunglasses, lenses, replacement of frames below 2 years (unless of an accident)&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1Four"&gt;
+&lt;h5 aria-contableols="collapse1Four" aria-expanded="false" class="btn-link collapsed" data-target="#collapse1Four" data-toggle="collapse"&gt;Exclusions&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1Four" class="collapse" data-parent="#accordion-1" id="collapse1Four"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Expenses recoverable under other insurances i.e. NHIF&lt;/li&gt;
+	&lt;li&gt;Hazardous sports&lt;/li&gt;
+	&lt;li&gt;Cosmetic surgery&lt;/li&gt;
+	&lt;li&gt;Drugs/Alcohol related&lt;/li&gt;
+	&lt;li&gt;Family planning&lt;/li&gt;
+	&lt;li&gt;Food supplements&lt;/li&gt;
+	&lt;li&gt;Old age homes, places of rest&lt;/li&gt;
+	&lt;li&gt;Participating in riots or strikes&lt;/li&gt;
+	&lt;li&gt;STDs (Except HIV)&lt;/li&gt;
+	&lt;li&gt;Genetic Disorders&lt;/li&gt;
+	&lt;li&gt;Military / Airforce operations&lt;/li&gt;
+	&lt;li&gt;Ambulance cost (unless under inpatient cover)&lt;/li&gt;
+	&lt;li&gt;Pain Management&lt;/li&gt;
+	&lt;li&gt;Suicide attempts or intentional injury&lt;/li&gt;
+	&lt;li&gt;Epidemics / Unknown Diseases&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;1&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/192" hreflang="en"&gt;Medical Insurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 07 Jul 2020 06:25:15 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1097 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

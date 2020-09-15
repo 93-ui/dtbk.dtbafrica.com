@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/89">
+  <channel>
+    <title>Just 4 Me Account</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/89</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Just 4 Me Account</title>
+  <link>https://dtbk.dtbafrica.com/savings/savings/just_4_me</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Just 4 Me Account&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/89" hreflang="en"&gt;Just 4 Me Account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 05/28/2019 - 15:24&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;This is a tailor-made account designed to help you and your children save for a brighter future! Apart from interest being credited half-yearly, Just4Me account holders also enjoy up to four free withdrawals and four free banker’s cheques per year for school fees.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-9"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading9One"&gt;
+&lt;h5 aria-controls="collapse9One" aria-expanded="false" class="btn-link" data-target="#collapse9One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading9One" class="collapse" data-parent="#accordion-9" id="collapse9One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;No ledger fees&lt;/li&gt;
+	&lt;li&gt;Free monthly e-statements&lt;/li&gt;
+	&lt;li&gt;No account maintenance fee&lt;/li&gt;
+	&lt;li&gt;One free withdrawal and one free banker’s cheque respectively per quarter&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading9Two"&gt;
+&lt;h5 aria-controls="collapse9Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse9Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading9Two" class="collapse" data-parent="#accordion-9" id="collapse9Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency - Kenya shillings&lt;/li&gt;
+	&lt;li&gt;Opening amount - nil&lt;/li&gt;
+	&lt;li&gt;Minimum balance - Kshs 1,000&lt;/li&gt;
+	&lt;li&gt;Competitive interest rate on balances over Kshs 1,000&lt;/li&gt;
+	&lt;li&gt;Channels / account &amp; information access - internet banking (optional), mobile banking (optional), e-statements&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading9Three"&gt;
+&lt;h5 aria-controls="collapse9Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse9Three" data-toggle="collapse"&gt;Charges&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading9Three" class="collapse" data-parent="#accordion-9" id="collapse9Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;0.25% cash handling fee (over Kshs. 1 million)&lt;/li&gt;
+	&lt;li&gt;Monthly maintenance fee - nil&lt;/li&gt;
+	&lt;li&gt;Ledger fee - nil&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Note: * All charges are subject to applicable tax&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;10&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/2" hreflang="en"&gt;savings_account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-09/Individual%20Account%20Opening%20Form_3.pdf" type="application/pdf; length=627578" title="Individual Account Opening Form_3.pdf"&gt;Download Individual Account Opening Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 28 May 2019 12:24:11 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">587 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

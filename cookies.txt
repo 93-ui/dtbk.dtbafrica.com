@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dtbk.dtbafrica.com	TRUE	/	FALSE	1999999999	advanced-frontend	qm1i66hufqae6piovhh8f39j33
+dtbk.dtbafrica.com	TRUE	/	FALSE	1999999999	_csrf-frontend	1c65c769173ef85b7353c16744cfcaed1c2dfb961cf34827ab4832501245e894a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22%DE%F0d%CB%E4%B4%3E%80abq%9D%9E%7F%18i%D9%90%7E%3A%16T%95v%18R%7D%E3%C36H%3C%22%3B%7D
+.addtoany.com	TRUE	/	FALSE	1999999999	__cfduid	d0d232487cb10e659028efb98b733422c1599560881
+static.addtoany.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

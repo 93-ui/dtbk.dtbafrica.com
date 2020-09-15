@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/165">
+  <channel>
+    <title>Fixed Deposit</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/165</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Fixed Deposits</title>
+  <link>https://dtbk.dtbafrica.com/savings/fixed_deposit</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fixed Deposits&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/165" hreflang="en"&gt;Fixed Deposit&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 06/06/2019 - 10:24&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;The Fixed Deposit Account is designed to enable you to save money for a period ranging from three months to one year. The bank also offers call deposits that can be opened for a minimum period of seven days and can be liquidated as and when required.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-2"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2One"&gt;
+&lt;h5 aria-contableols="collapse2One" aria-expanded="false" class="btn-link" data-target="#collapse2One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2One" class="collapse" data-parent="#accordion-2" id="collapse2One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Interest is earned on deposits&lt;/li&gt;
+	&lt;li&gt;Funds available on demand (call deposits)&lt;/li&gt;
+	&lt;li&gt;Funds on fixed deposit can be used as security against advances&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2Two"&gt;
+&lt;h5 aria-contableols="collapse2Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse2Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2Two" class="collapse" data-parent="#accordion-2" id="collapse2Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency - Kenya Shillings, US Dollars (USD), Euro (EUR) and Great Britain Pounds (GBP)&lt;/li&gt;
+	&lt;li&gt;Minimum deposit -
+	&lt;ul&gt;&lt;li&gt;KSH. 100,000&lt;/li&gt;
+		&lt;li&gt;USD. 5,000&lt;/li&gt;
+		&lt;li&gt;EUR. 6,000&lt;/li&gt;
+		&lt;li&gt;GBP. 6,000&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Term -
+	&lt;ul&gt;&lt;li&gt;Fixed deposits - one month, three months, six months, one year&lt;/li&gt;
+		&lt;li&gt;Call deposits - a minimum of seven days&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;2&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/113" hreflang="en"&gt;Fixed Deposit&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-09/Individual%20Account%20Opening%20Form_4.pdf" type="application/pdf; length=627578" title="Individual Account Opening Form_4.pdf"&gt;Download Individual Account Opening Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Thu, 06 Jun 2019 07:24:11 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">818 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

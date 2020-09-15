@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/127">
+  <channel>
+    <title>Agency Banking</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/127</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>DTB Agency Banking</title>
+  <link>https://dtbk.dtbafrica.com/service/agency_banking</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DTB Agency Banking&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/134" hreflang="en"&gt;Agency Banking&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 06/06/2019 - 12:27&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Agency Banking enables DTB customers to access banking services at appointed outlets. DTB agents are well spread throughout the country especially in areas where the bank has no branch presence.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-1"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1One"&gt;
+&lt;h5 aria-contableols="collapse1One" aria-expanded="false" class="btn-link" data-target="#collapse1One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1One" class="collapse" data-parent="#accordion-1" id="collapse1One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Access to banking services easily, anywhere, anytime&lt;/li&gt;
+	&lt;li&gt;Extended banking hours through the use of agents beyond normal banking hours&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1Two"&gt;
+&lt;h5 aria-contableols="collapse1Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse1Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1Two" class="collapse" data-parent="#accordion-1" id="collapse1Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency - Kenya shillings&lt;/li&gt;
+	&lt;li&gt;DTB agent services offer -
+	&lt;ul&gt;&lt;li&gt;Cash in (cash deposit collection)&lt;/li&gt;
+		&lt;li&gt;Cash out (cash withdrawals)&lt;/li&gt;
+		&lt;li&gt;MTS services (cash receipt and sending)&lt;/li&gt;
+		&lt;li&gt;Balance enquiry&lt;/li&gt;
+		&lt;li&gt;Mini-statement request&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Cash in (deposit)&lt;/strong&gt;
+	&lt;span&gt;&lt;div class="table-responsive"&gt;
+	&lt;table class="table"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;From 100 to 5,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 0&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 5,001 to 10,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 0&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 10,001 to 20,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 0&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 20,001 to 50,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 50&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 50,001 to 100,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 70&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 100,001 to 200,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 100&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 200,001 to 500,000&lt;/td&gt;
+				&lt;td&gt;0.25% cash handling&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Cash out (withdrawal)&lt;/strong&gt;
+	&lt;span&gt;&lt;div class="table-responsive"&gt;
+	&lt;table class="table"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;From 100 to 2,500&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 25&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 2,501 to 5,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 45&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 5,001 to 10,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 75&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 10,001 to 20,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 145&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 20,001 to 35,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 175&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 35,001 to 50,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 195&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 50,001 to 500,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 220&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Note: * All charges are subject to applicable tax&lt;/li&gt;
+	&lt;li&gt;Other services
+	&lt;ul&gt;&lt;li&gt;Balance inquiry - Kshs. 10&lt;/li&gt;
+		&lt;li&gt;Mini-statement - Kshs. 20&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;4&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/127" hreflang="en"&gt;Agency Banking&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 06 Jun 2019 09:27:59 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">822 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

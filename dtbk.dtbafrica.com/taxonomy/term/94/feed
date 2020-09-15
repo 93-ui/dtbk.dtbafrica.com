@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/94">
+  <channel>
+    <title>insurance_premium_financing</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/94</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Insurance Premium Financing</title>
+  <link>https://dtbk.dtbafrica.com/loans/insurance_premium_financing</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Insurance Premium Financing&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/101" hreflang="en"&gt;Insurance Premium Financing&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 05/31/2019 - 12:09&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Whether it’s a fleet of cars, your business premises or even home, we will finance your insurance premiums and allow you to repay in affordable monthly premiums.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-5"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading5Two"&gt;
+&lt;h5 aria-controls="collapse5Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse5Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading5Two" class="collapse" data-parent="#accordion-5" id="collapse5Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Purpose - to facilitate the financing of insurance premiums&lt;/li&gt;
+	&lt;li&gt;Currency - LCY / FCY&lt;/li&gt;
+	&lt;li&gt;Security - Tripartite agreement duly signed by insured, the insurer and the bank&lt;/li&gt;
+	&lt;li&gt;Repayment period (loan period) - maximum of ten months&lt;/li&gt;
+	&lt;li&gt;Interest rate - CBR + 4% (LCY)&lt;/li&gt;
+	&lt;li&gt;Minimum IPF amount - Kshs 20,000&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading5Three"&gt;
+&lt;h5 aria-controls="collapse5Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse5Three" data-toggle="collapse"&gt;Requirements&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading5Three" class="collapse" data-parent="#accordion-5" id="collapse5Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Individuals / sole proprietors / partnerships&lt;/strong&gt;
+
+	&lt;ul&gt;&lt;li&gt;National identity card / passport / KRA PIN certificate of individual borrowers - 'original and copy'&lt;/li&gt;
+		&lt;li&gt;Certificate of registration (if proprietor or partnership) / business PIN&lt;/li&gt;
+		&lt;li&gt;First current cheque /installment&lt;/li&gt;
+		&lt;li&gt;Post-dated cheques&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Companies&lt;/strong&gt;
+	&lt;ul&gt;&lt;li&gt;National identity card / passport / KRA PIN certificate of borrowers - 'original and copy'&lt;/li&gt;
+		&lt;li&gt;Certificate of incorporation / business PIN&lt;/li&gt;
+		&lt;li&gt;First current cheque&lt;/li&gt;
+		&lt;li&gt;Post-dated cheques&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;5&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/94" hreflang="en"&gt;insurance_premium_financing&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 31 May 2019 09:09:46 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">600 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

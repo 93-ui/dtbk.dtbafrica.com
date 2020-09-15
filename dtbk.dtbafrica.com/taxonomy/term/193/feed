@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/193">
+  <channel>
+    <title>BancAssurance</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/193</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Last Expense</title>
+  <link>https://dtbk.dtbafrica.com/node/1102</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Last Expense&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/194" hreflang="en"&gt;BancAssurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 07/07/2020 - 11:28&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;The last expense cover gives your loved ones the much-needed financial support to attend to funeral preparations within 48 hours of the loss.&lt;/p&gt;
+
+&lt;div id="accordion-105"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading105One"&gt;
+&lt;h5 aria-contableols="collapse105One" aria-expanded="false" class="btn-link" data-target="#collapse105One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading105One" class="collapse" data-parent="#accordion-105" id="collapse105One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;No waiting period on accidental death&lt;/li&gt;
+	&lt;li&gt;Claims paid within 24 hours&lt;/li&gt;
+	&lt;li&gt;Three months waiting period for illness&lt;/li&gt;
+	&lt;li&gt;Pays for any one death per year&lt;/li&gt;
+	&lt;li&gt;Premium per family covered 5&lt;/li&gt;
+	&lt;li&gt;Parent &amp; parents in law covered at extra cost&lt;/li&gt;
+	&lt;li&gt;Simple application process&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading105Two"&gt;
+&lt;h5 aria-contableols="collapse105Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse105Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading105Two" class="collapse" data-parent="#accordion-105" id="collapse105Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul type=""&gt;&lt;li&gt;Single claim option
+	&lt;ul type=""&gt;&lt;li&gt;Annual cover Kshs. 50,000- 500,000&lt;/li&gt;
+		&lt;li&gt;Annual premium (Nuclear Family) Kshs. 600- 5,976&lt;/li&gt;
+		&lt;li&gt;Annual premium (per extra child) Kshs. 100- 900&lt;/li&gt;
+		&lt;li&gt;Annual premium per parent Kshs. 612- 6,120&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Multiple claim option (Up to three claims per year)
+	&lt;ul type=""&gt;&lt;li&gt;Annual cover Kshs. 50,000- 500,000&lt;/li&gt;
+		&lt;li&gt;Annual premium (Nuclear Family) Kshs. 664- 6,576&lt;/li&gt;
+		&lt;li&gt;Annual premium (per extra child) Kshs. 100- 900&lt;/li&gt;
+		&lt;li&gt;Annual premium per parent Kshs. 612- 6,120&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;N.B: If you have Cancer, Diabetes, Hypertension, Stroke, Major Organ Failure/Organ Transplant, Heart Disease/Angina, HIV related Illnesses
+	&lt;ul type=""&gt;&lt;li&gt;Cover will be capped to a maximum of Kshs. 250,000 for the first year&lt;/li&gt;
+		&lt;li&gt;For cover of Kshs. 500,000 only Kshs. 250,000 will be processed within 48 hrs. balance upon submission of original death certificate for the first year.&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading105Three"&gt;
+&lt;h5 aria-contableols="collapse105Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse105Three" data-toggle="collapse"&gt;Registration Details and Requirements&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading105Three" class="collapse" data-parent="#accordion-105" id="collapse105Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;p&gt;We welcome you to register on the &lt;a href="https://lifegoeson.co.ke/// registration requirements and benefits"&gt; website &lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Copy of ID and pin of applicant&lt;/li&gt;
+	&lt;li&gt;Copy of ID of spouse&lt;/li&gt;
+	&lt;li&gt;Copy of ID of parent/ In-laws&lt;/li&gt;
+	&lt;li&gt;Pay via Mpesa&lt;/li&gt;
+	&lt;li&gt;Get cover note instantly to your email&lt;/li&gt;
+	&lt;li&gt;Get instant SMS to your mobile phone&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading105Four"&gt;
+&lt;h5 aria-contableols="collapse105Four" aria-expanded="false" class="btn-link collapsed" data-target="#collapse105Four" data-toggle="collapse"&gt;Exclusions&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading105Four" class="collapse" data-parent="#accordion-105" id="collapse105Four"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Active participation in war&lt;/li&gt;
+	&lt;li&gt;Overdose by un-prescribed drugs&lt;/li&gt;
+	&lt;li&gt;Extreme sports (Ziplining, mountain climbing, speed racing etc.)&lt;/li&gt;
+	&lt;li&gt;Intentional self-injury&lt;/li&gt;
+	&lt;li&gt;Suicide&lt;/li&gt;
+	&lt;li&gt;Radio activity&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;3&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/193" hreflang="en"&gt;BancAssurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 07 Jul 2020 08:28:56 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1102 at https://dtbk.dtbafrica.com</guid>
+    </item>
+<item>
+  <title>Fanaka</title>
+  <link>https://dtbk.dtbafrica.com/node/1101</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fanaka&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/194" hreflang="en"&gt;BancAssurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 07/07/2020 - 11:28&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Fanaka is an endowment policy which provides the policyholder with a disciplined savings plan ranging from planned savings for business capital, home upgrading, purchase of land among others.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-1000"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1000One"&gt;
+&lt;h5 aria-contableols="collapse1000One" aria-expanded="false" class="btn-link" data-target="#collapse1000One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1000One" class="collapse" data-parent="#accordion-1000" id="collapse1000One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Policy loan&lt;/li&gt;
+	&lt;li&gt;Tax relief (15% of B.P.)&lt;/li&gt;
+	&lt;li&gt;30-day free-look period&lt;/li&gt;
+	&lt;li&gt;Minimum of 4.5 interest per annum&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1000Two"&gt;
+&lt;h5 aria-contableols="collapse1000Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse1000Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1000Two" class="collapse" data-parent="#accordion-1000" id="collapse1000Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Entry age (ANB): 18-65 years&lt;/li&gt;
+	&lt;li&gt;Maximum maturity age: 70 years&lt;/li&gt;
+	&lt;li&gt;Minimum sum assured: Kshs. 350,000&lt;/li&gt;
+	&lt;li&gt;Cash value: 5-10 year terms, after 5 years and 11-20 year terms, after 3 years&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;2&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/193" hreflang="en"&gt;BancAssurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 07 Jul 2020 08:28:12 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1101 at https://dtbk.dtbafrica.com</guid>
+    </item>
+<item>
+  <title>Career Life</title>
+  <link>https://dtbk.dtbafrica.com/node/1100</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Career Life&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/194" hreflang="en"&gt;BancAssurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 07/07/2020 - 11:27&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Career life is an education policy which provides a policyholder with saving plans such as planned saving for high school, college and university fees etc.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-100"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading100One"&gt;
+&lt;h5 aria-contableols="collapse100One" aria-expanded="false" class="btn-link" data-target="#collapse100One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading100One" class="collapse" data-parent="#accordion-100" id="collapse100One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Policy loan&lt;/li&gt;
+	&lt;li&gt;Tax relief (15% of B.P.)&lt;/li&gt;
+	&lt;li&gt;30-day free-look period&lt;/li&gt;
+	&lt;li&gt;Minimum of 4.5 interest per annum&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading100Two"&gt;
+&lt;h5 aria-contableols="collapse100Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse100Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading100Two" class="collapse" data-parent="#accordion-100" id="collapse100Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Entry age (ANB): 18-65 years&lt;/li&gt;
+	&lt;li&gt;Maximum maturity age: 70 years&lt;/li&gt;
+	&lt;li&gt;Minimum sum assured: Kshs. 200,000&lt;/li&gt;
+	&lt;li&gt;Policy term can vary from 5 to 20 years&lt;/li&gt;
+	&lt;li&gt;Cash value: 3 full year’s premiums&lt;/li&gt;
+	&lt;li&gt;Must be in force for at least 3 years&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;1&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/193" hreflang="en"&gt;BancAssurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 07 Jul 2020 08:27:08 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1100 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

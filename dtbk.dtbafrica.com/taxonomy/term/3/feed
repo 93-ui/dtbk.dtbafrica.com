@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/3">
+  <channel>
+    <title>DTB Prime Dollar, Euro and Sterling Current Accounts</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/3</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>DTB Prime Dollar, Euro and Sterling Current Accounts</title>
+  <link>https://dtbk.dtbafrica.com/savings/current/prime-current-account</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DTB Prime Dollar, Euro and Sterling Current Accounts&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/3" hreflang="en"&gt;DTB Prime Dollar, Euro and Sterling Current Accounts&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 05/28/2019 - 14:55&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;These are a group of accounts aimed at attracting foreign currency deposits. To view the applicable foreign currencies, please check out the product features section below.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-4"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading4One"&gt;
+&lt;h5 aria-controls="collapse4One" aria-expanded="false" class="btn-link" data-target="#collapse4One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading4One" class="collapse" data-parent="#accordion-4" id="collapse4One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Suitable for clients with a regular income in foreign currency&lt;/li&gt;
+	&lt;li&gt;No ledger fees&lt;/li&gt;
+	&lt;li&gt;Free monthly e-statements&lt;/li&gt;
+	&lt;li&gt;Interest is calculated and credited monthly (USD)&lt;/li&gt;
+	&lt;li&gt;Access to internet banking channels&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading4Two"&gt;
+&lt;h5 aria-controls="collapse4Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse4Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading4Two" class="collapse" data-parent="#accordion-4" id="collapse4Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency - US Dollars (USD), Euro (EUR) and Great Britain Pounds (GBP)&lt;/li&gt;
+	&lt;li&gt;Opening amount - nil&lt;/li&gt;
+	&lt;li&gt;Minimum balance - nil&lt;/li&gt;
+	&lt;li&gt;Attractive interest rates on balances over USD 5,000&lt;/li&gt;
+	&lt;li&gt;Channels / account &amp; information access - cheque book , internet banking, E-statements&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading4Three"&gt;
+&lt;h5 aria-controls="collapse4Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse4Three" data-toggle="collapse"&gt;Charges&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading4Three" class="collapse" data-parent="#accordion-4" id="collapse4Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;0.5% cash handling fee (over GBP / EUR / USD 5,000 or equivalent)&lt;/li&gt;
+	&lt;li&gt;Ledger fees - nil&lt;/li&gt;
+	&lt;li&gt;Cheque book as per tariff&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Note: * All charges are subject to applicable tax&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;4&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/1" hreflang="en"&gt;current_account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-09/Business-Account-Opening-Form_0.pdf" type="application/pdf; length=1132796" title="Business-Account-Opening-Form_0.pdf"&gt;Download Business Account Opening Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 28 May 2019 11:55:55 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">581 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

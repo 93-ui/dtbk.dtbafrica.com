@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/103">
+  <channel>
+    <title>Trade Finance</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/103</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Trade Finance</title>
+  <link>https://dtbk.dtbafrica.com/loans/trade_finance</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Trade Finance&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/103" hreflang="en"&gt;Trade Finance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 05/31/2019 - 12:45&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;As a business dealing with imports and exports, we will support your trade through import letters of credit, issuing guarantees as well as handling of import / export documents. Talk to us today!&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-7"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading7One"&gt;
+&lt;h5 aria-controls="collapse7One" aria-expanded="false" class="btn-link" data-target="#collapse7One" data-toggle="collapse"&gt;Letters of Credit&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading7One" class="collapse" data-parent="#accordion-7" id="collapse7One"&gt;
+&lt;div class="card-body"&gt;
+&lt;div class="product-desc"&gt;
+&lt;p&gt;Letters of credit are normally opened for customers who bank at DTB. These are facilities that are fully secured and the amount covered varies on a case by case basis depending on the nature and value of the tangible security held.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The features of this product are as follows:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Currency- KSH,USD,GBP,EUR&lt;/li&gt;
+	&lt;li&gt;Import LCs&lt;/li&gt;
+	&lt;li&gt;Issue:
+	&lt;ul&gt;&lt;li&gt;Opening commission 0.50% per quarter&lt;/li&gt;
+		&lt;li&gt;Minimum charge Kshs 3,000&lt;/li&gt;
+		&lt;li&gt;Swift charges Kshs 4,000&lt;/li&gt;
+		&lt;li&gt;Postage charges Kshs 500&lt;/li&gt;
+		&lt;li&gt;Revenue stamp charge Kshs 100&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Acceptance:
+	&lt;ul&gt;&lt;li&gt;Acceptance commission 0.25% per quarter&lt;/li&gt;
+		&lt;li&gt;Minimum charge Kshs 1,500&lt;/li&gt;
+		&lt;li&gt;Swift charges Kshs 1,500&lt;/li&gt;
+		&lt;li&gt;Postage charges Kshs 500&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Settlement:
+	&lt;ul&gt;&lt;li&gt;Settlement commission 0.25%&lt;/li&gt;
+		&lt;li&gt;Minimum charge Kshs 3,000&lt;/li&gt;
+		&lt;li&gt;Swift charges Kshs 1,500&lt;/li&gt;
+		&lt;li&gt;Postage for sight LCs Kshs 500&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading7Two"&gt;
+&lt;h5 aria-controls="collapse7Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse7Two" data-toggle="collapse"&gt;Collections&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading7Two" class="collapse" data-parent="#accordion-7" id="collapse7Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;div class="product-desc"&gt;
+&lt;p&gt;DTB also acts as an agent for collection and all collections are routed through IBD for processing. The bank acts as an agent for our correspondent banks and receives bills from banks in other countries for presentation to a local drawee (import bills on collection).&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The features of this product are as follows:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Import bills on collection
+	&lt;ul&gt;&lt;li&gt;Handling fees 0.25% or a minimum charge of USD 10&lt;/li&gt;
+		&lt;li&gt;Acceptance Swift charges Kshs 1,500&lt;/li&gt;
+		&lt;li&gt;Settlement Swift charges Kshs 1,500&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Export bills on collection
+	&lt;ul&gt;&lt;li&gt;Courier charges Kshs 3,000&lt;/li&gt;
+		&lt;li&gt;Negotiation charges 0.25% or minimum charge Kshs 2,000&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading7Four"&gt;
+&lt;h5 aria-controls="collapse7Four" aria-expanded="false" class="btn-link collapsed" data-target="#collapse7Four" data-toggle="collapse"&gt;Bank Guarantees&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading7Four" class="collapse" data-parent="#accordion-7" id="collapse7Four"&gt;
+&lt;div class="card-body"&gt;
+&lt;div class="product-desc"&gt;
+&lt;p&gt;The bank issues letters of guarantee on behalf of customers and these facilities are subject to the same credit vetting and approval process as any other credit facility. Guarantees include all forms of guarantee commitments issued by the bank i.e. bid bonds, advance payment guarantees, performance guarantees among others.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The features of this product are as follows:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Currency- KSHS,USD,GBP,EUR&lt;/li&gt;
+	&lt;li&gt;Export bills on collection
+	&lt;ul&gt;&lt;li&gt;Handling fees 0.25% or a minimum charge of USD 10&lt;/li&gt;
+		&lt;li&gt;Acceptance Swift charges Kshs 1,500&lt;/li&gt;
+		&lt;li&gt;Settlement Swift charges Kshs 1,500&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Export bills on collection
+	&lt;ul&gt;&lt;li&gt;Courier charges Kshs 3,000&lt;/li&gt;
+		&lt;li&gt;Negotiation charges 0.25% or minimum charge Kshs 2,000&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading7Three"&gt;
+&lt;h5 aria-controls="collapse7Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse7Three" data-toggle="collapse"&gt;Requirements&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading7Three" class="collapse" data-parent="#accordion-7" id="collapse7Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Individuals / sole proprietors / partnerships&lt;/strong&gt;
+
+	&lt;ul&gt;&lt;li&gt;National identity card / passport / KRA PIN&lt;/li&gt;
+		&lt;li&gt;certificate of borrowers - original and copy&lt;/li&gt;
+		&lt;li&gt;Certificate of registration (if proprietor or partnership)&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Companies&lt;/strong&gt;
+	&lt;ul&gt;&lt;li&gt;Certificate of incorporation&lt;/li&gt;
+		&lt;li&gt;Company KRA PIN&lt;/li&gt;
+		&lt;li&gt;National identity card / passport / KRA PIN&lt;/li&gt;
+		&lt;li&gt;certificate of the directors - original and copy&lt;/li&gt;
+		&lt;li&gt;Certified copy of memorandum and articles of association&lt;/li&gt;
+		&lt;li&gt;Certified copy of the resolution authorizing borrowing from DTB&lt;/li&gt;
+		&lt;li&gt;Audited accounts for the last three years together with a copy of the latest management accounts&lt;/li&gt;
+		&lt;li&gt;Copies of bank account statements for the last twelve months&lt;/li&gt;
+		&lt;li&gt;Latest annual returns &amp; filing receipt / CR-12&lt;/li&gt;
+		&lt;li&gt;Write-ups, plans, and projections justifying need supported by business information&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Additional documentation requirements&lt;/strong&gt;
+	&lt;ul&gt;&lt;li&gt;&lt;span&gt;Bank guarantees&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;Format of bond / guarantee&lt;/li&gt;
+		&lt;li&gt;Details of contract for performance bond&lt;/li&gt;
+		&lt;li&gt;Details of tender application (bid bonds)&lt;/li&gt;
+		&lt;li&gt;Counter guarantee&lt;/li&gt;
+		&lt;li&gt;&lt;span&gt;Letters of credit&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;Invoice (local LC) and import declaration form (foreign LC)&lt;/li&gt;
+		&lt;li&gt;Marine cover&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;7&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/96" hreflang="en"&gt;trade_finance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 31 May 2019 09:45:18 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">602 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

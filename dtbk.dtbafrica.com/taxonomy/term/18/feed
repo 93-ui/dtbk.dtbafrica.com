@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/18">
+  <channel>
+    <title>DTB Current Account</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/18</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>DTB Current Account</title>
+  <link>https://dtbk.dtbafrica.com/savings/current/current_account</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DTB Current Account&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/18" hreflang="en"&gt;DTB Current Account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 05/28/2019 - 14:45&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;The DTB Current Account is a transactional account with a flexible pay as you go price structure. Clients are only charged when they transact. The account comes with a debit card and a cheque book that are both optional to customers.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-2"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2One"&gt;
+&lt;h5 aria-controls="collapse2One" aria-expanded="false" class="btn-link" data-target="#collapse2One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2One" class="collapse" data-parent="#accordion-2" id="collapse2One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;No minimum account balance&lt;/li&gt;
+	&lt;li&gt;Free monthly e-statements&lt;/li&gt;
+	&lt;li&gt;Access to a debit card that can be used for ATM, POS and online transactions&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2Two"&gt;
+&lt;h5 aria-controls="collapse2Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse2Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2Two" class="collapse" data-parent="#accordion-2" id="collapse2Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency - Kenya shillings&lt;/li&gt;
+	&lt;li&gt;Opening amount - nil&lt;/li&gt;
+	&lt;li&gt;Minimum balance - nil&lt;/li&gt;
+	&lt;li&gt;Interest rate - N/A&lt;/li&gt;
+	&lt;li&gt;Channels / account &amp; information access - debit card, cheque book, mobile banking, internet banking, e-statements&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2Three"&gt;
+&lt;h5 aria-controls="collapse2Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse2Three" data-toggle="collapse"&gt;Charges&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2Three" class="collapse" data-parent="#accordion-2" id="collapse2Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Debit card:
+	&lt;ul&gt;&lt;li&gt;Mastercard gold Kshs. 500&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Card replacement - Kshs. 600&lt;/li&gt;
+	&lt;li&gt;Withdrawal fees:
+	&lt;ul&gt;&lt;li&gt;Withdrawals from DTB ATMs - Kshs. 30&lt;/li&gt;
+		&lt;li&gt;Withdrawals from Pesa Point and Kenswitch ATMs - Kshs. 70&lt;/li&gt;
+		&lt;li&gt;Withdrawals from all other bank ATMs - Kshs. 200&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;0.25% cash handling fee (over Kshs. 1 million)&lt;/li&gt;
+	&lt;li&gt;Ledger fee per transaction - Kshs. 30&lt;/li&gt;
+	&lt;li&gt;Cheque book as per tariff&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Note: * All charges are subject to applicable tax&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;2&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/1" hreflang="en"&gt;current_account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-09/Individual%20Account%20Opening%20Form.pdf" type="application/pdf; length=627578" title="Individual Account Opening Form.pdf"&gt;Download Individual Account Opening Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-09/Business-Account-Opening-Form.pdf" type="application/pdf; length=1132796" title="Business-Account-Opening-Form.pdf"&gt;Download Business Account Opening Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 28 May 2019 11:45:18 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">579 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

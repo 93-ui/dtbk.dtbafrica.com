@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/102">
+  <channel>
+    <title>Leasing</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/102</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Leasing</title>
+  <link>https://dtbk.dtbafrica.com/loans/leasing_facilities</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Leasing&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/102" hreflang="en"&gt;Leasing&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 05/31/2019 - 12:21&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Leasing is another way through which businesses and individuals can acquire assets. Talk to us and find out how we can partner with you to facilitate your lease financing.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-6"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading6Two"&gt;
+&lt;h5 aria-controls="collapse6Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse6Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading6Two" class="collapse" data-parent="#accordion-6" id="collapse6Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Purpose - asset acquisition through operating lease&lt;/li&gt;
+	&lt;li&gt;Maximum leasing period:
+	&lt;ul&gt;&lt;li&gt;forty-eight months (vehicles)&lt;/li&gt;
+		&lt;li&gt;twenty-four months (IT equipment)&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Maximum approval amount - Kshs. 100million per customer&lt;/li&gt;
+	&lt;li&gt;Currency - LCY and FCY&lt;/li&gt;
+	&lt;li&gt;Interest rate - CBR + 4% (LCY)&lt;/li&gt;
+	&lt;li&gt;Tenor - twenty-four to forty-eight months&lt;/li&gt;
+	&lt;li&gt;Appraisal fee - 2%&lt;/li&gt;
+	&lt;li&gt;Security:
+	&lt;ul&gt;&lt;li&gt;Master facility agreement incorporating the supplier, lessee and the bank stipulating terms &amp; conditions of the lease&lt;/li&gt;
+		&lt;li&gt;Lessees open a receivable account with us against which our lien is registered&lt;/li&gt;
+		&lt;li&gt;Executed service and maintenance contract between the supplier and lessee&lt;/li&gt;
+		&lt;li&gt;Landlord waiver of any interest whatsoever over the assets under leasing if any&lt;/li&gt;
+		&lt;li&gt;Comprehensive insurance cover over assets under leasing with the bank’s interest noted&lt;/li&gt;
+		&lt;li&gt;Joint, several and personal guarantees of directors of the leasing company&lt;/li&gt;
+		&lt;li&gt;Sale and cession agreements&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;6&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/95" hreflang="en"&gt;leasing&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 31 May 2019 09:21:49 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">601 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/98">
+  <channel>
+    <title>Hire Purchase</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/98</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Hire Purchase</title>
+  <link>https://dtbk.dtbafrica.com/loans/hirepurchase_facilities</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Hire Purchase&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/98" hreflang="en"&gt;Hire Purchase&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 05/31/2019 - 10:51&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Hire purchase enables Small to Medium Enterprise's to acquire new and second hand / reconditioned assets and repay over a period of time.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-2"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2Two"&gt;
+&lt;h5 aria-controls="collapse2Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse2Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2Two" class="collapse" data-parent="#accordion-2" id="collapse2Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Purpose:
+	&lt;ul&gt;&lt;li&gt;Asset financing&lt;/li&gt;
+		&lt;li&gt;LCY / FCY currency&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Loan period - maximum of forty eight months&lt;/li&gt;
+	&lt;li&gt;Interest rate - CBR + 4% (LCY)&lt;/li&gt;
+	&lt;li&gt;Fees - appraisal fee 2% on the loan amount, then 1% on the anniversary of the loan&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2Three"&gt;
+&lt;h5 aria-controls="collapse2Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse2Three" data-toggle="collapse"&gt;Requirements&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2Three" class="collapse" data-parent="#accordion-2" id="collapse2Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Registration form duly completed&lt;/li&gt;
+	&lt;li&gt;National identity card / passport - original and copy&lt;/li&gt;
+	&lt;li&gt;KRA PIN certificate&lt;/li&gt;
+	&lt;li&gt;Three month’s payslip (if employed)&lt;/li&gt;
+	&lt;li&gt;Latest six months bank statements&lt;/li&gt;
+	&lt;li&gt;Request to contain purpose / need&lt;/li&gt;
+	&lt;li&gt;Certificate of registration (if proprietor or partnership)&lt;/li&gt;
+	&lt;li&gt;Copy of logbook, if a vehicle is used&lt;/li&gt;
+	&lt;li&gt;Valuation report from the authorised valuer, in case of used vehicle&lt;/li&gt;
+	&lt;li&gt;Latest audited accounts and annual returns (for companies)&lt;/li&gt;
+	&lt;li&gt;Copies of memorandum and articles of association (for companies)&lt;/li&gt;
+	&lt;li&gt;Certificate of incorporation (for companies)&lt;/li&gt;
+	&lt;li&gt;Board resolution authorising the borrowing (for companies)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;2&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/91" hreflang="en"&gt;hirepurachase&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 31 May 2019 07:51:01 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">597 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

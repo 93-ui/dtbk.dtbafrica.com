@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/131">
+  <channel>
+    <title>Internet Banking</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/131</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Internet Banking</title>
+  <link>https://dtbk.dtbafrica.com/service/digital-channels/internet_banking</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Internet Banking&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/131" hreflang="en"&gt;Internet Banking&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 06/06/2019 - 11:41&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;DTB’s internet banking platform, i24/7, enables businesses and individuals to transact seamlessly on internet-ready devices irrespective of their location.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-2"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2One"&gt;
+&lt;h5 aria-contableols="collapse2One" aria-expanded="false" class="btn-link" data-target="#collapse2One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2One" class="collapse" data-parent="#accordion-2" id="collapse2One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Transact on-the-go from the comfort of your location day and night&lt;/li&gt;
+	&lt;li&gt;Initiate bulk transactions and bulk beneficiary uploads&lt;/li&gt;
+	&lt;li&gt;Gain a higher level of visibility and control over your banking needs&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2Two"&gt;
+&lt;h5 aria-contableols="collapse2Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse2Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2Two" class="collapse" data-parent="#accordion-2" id="collapse2Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;User training - free&lt;/li&gt;
+	&lt;li&gt;SWIFT -Kshs. 1,500&lt;/li&gt;
+	&lt;li&gt;RTGS - Kshs. 500&lt;/li&gt;
+	&lt;li&gt;EFT - Kshs. 100&lt;/li&gt;
+	&lt;li&gt;Internal funds transfer - free&lt;/li&gt;
+	&lt;li&gt;Balance inquiry - free&lt;/li&gt;
+	&lt;li&gt;Account statement - free&lt;/li&gt;
+	&lt;li&gt;Email alert per transaction - free&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Note:* All charges are subject to applicable tax&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading2Three"&gt;
+&lt;h5 aria-contableols="collapse2Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse2Three" data-toggle="collapse"&gt;Requirements&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading2Three" class="collapse" data-parent="#accordion-2" id="collapse2Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Customers who wish to sign up for internet banking must be DTB account holders&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="headingFour"&gt;
+&lt;h5 aria-contableols="collapse1Four" aria-expanded="false" class="btn-link collapsed" data-target="#collapse1Four" data-toggle="collapse"&gt;i24/7 How to video demo&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1Four" class="collapse" data-parent="#accordion-1" id="collapse1Four"&gt;
+&lt;div class="card-body"&gt;&lt;iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="400" src="https://www.youtube.com/embed/Ft8Yus5JPzI?list=PLTJ8NmH4fI7Scjn7LxrZ88eXryS5IJeBx" style="min-height:13em !important" width="780"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;2&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/124" hreflang="en"&gt;internet banking&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-10/i247%20%20Application%20Form.pdf" type="application/pdf; length=306582" title="i247  Application Form.pdf"&gt;Download i247 Application Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-11/Online%20Banking%20Terms%20and%20Conditions_0.pdf" type="application/pdf; length=59121" title="Online Banking Terms and Conditions_0.pdf"&gt;Download  i24/7 Terms and Conditions&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2019-09/E-banking%20form%20Business_0.pdf" type="application/pdf; length=1100933" title="E-banking form Business_0.pdf"&gt;Download E Banking Business Application Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-uploaded-forms field--type-link field--label-above"&gt;
+    &lt;div class="field__label"&gt;uploaded forms&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://dtbk.dtbafrica.com/sites/default/files/downloads/GuideBook.pdf"&gt;Download DTB i24/7 User Guide&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Thu, 06 Jun 2019 08:41:45 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">820 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

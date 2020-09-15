@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/126">
+  <channel>
+    <title>POS Acquiring</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/126</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>DTB POS Acquiring</title>
+  <link>https://dtbk.dtbafrica.com/service/pos_acquiring</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DTB POS Acquiring&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/133" hreflang="en"&gt;POS Acquiring&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 06/06/2019 - 12:49&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Accepting card payments can transform your sales. As your bank, we can enable you to accept Mastercard and Visa card-based payments without any hassle. Reach out to our team via merchantservices@dtbafrica.com and we’ll come to you.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-3"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading3One"&gt;
+&lt;h5 aria-contableols="collapse3One" aria-expanded="false" class="btn-link" data-target="#collapse3One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading3One" class="collapse" data-parent="#accordion-3" id="collapse3One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Ability to accept different types of card payments&lt;/li&gt;
+	&lt;li&gt;Increased sales opportunities derived from having an additional payment option&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading3Two"&gt;
+&lt;h5 aria-contableols="collapse3Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse3Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading3Two" class="collapse" data-parent="#accordion-3" id="collapse3Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency (settlement) - Kenya shillings&lt;/li&gt;
+	&lt;li&gt;DTB merchant services - purchases, reversals&lt;/li&gt;
+	&lt;li&gt;Charges:
+	&lt;ul&gt;&lt;li&gt;Purchases - nil&lt;/li&gt;
+		&lt;li&gt;Reversals - nil&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Commission - Merchant Service Commission (MCC)
+	&lt;ul&gt;&lt;li&gt;Merchant service fee of between 1% to 7%&lt;/li&gt;
+		&lt;li&gt;The rate is determined by examining a number of factors not limited to the following MCC code, account turnover, number of years in operation for business among others&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading3Four"&gt;
+&lt;h5 aria-controls="collapse3Four" aria-expanded="false" class="btn-link collapsed" data-target="#collapse3Four" data-toggle="collapse"&gt;Requirements&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading3Four" class="collapse" data-parent="#accordion-3" id="collapse3Four"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Board resolution&lt;/li&gt;
+	&lt;li&gt;Certificate of incorporation / business registration&lt;/li&gt;
+	&lt;li&gt;Business PIN certificate&lt;/li&gt;
+	&lt;li&gt;Copy of directors’ ID / passports&lt;/li&gt;
+	&lt;li&gt;Copy of directors’ KRA PIN certificates&lt;/li&gt;
+	&lt;li&gt;Copy of directors’ photos&lt;/li&gt;
+	&lt;li&gt;Memorandum and articles of association&lt;/li&gt;
+	&lt;li&gt;Latest company returns (CR12)&lt;/li&gt;
+	&lt;li&gt;Three months bank statements for non-DTB customers and three months turnover summary of DTB customers&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;4&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/126" hreflang="en"&gt;POS Acquiring&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 06 Jun 2019 09:49:10 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">823 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

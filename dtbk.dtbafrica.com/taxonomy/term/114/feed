@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/114">
+  <channel>
+    <title>Money Transfer</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/114</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Money Transfer</title>
+  <link>https://dtbk.dtbafrica.com/service/money_transfer</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Money Transfer&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/129" hreflang="en"&gt;Money Transfer&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sat, 06/01/2019 - 21:11&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;DTB has partnered with Western Union, MoneyGram, Worldremit and Xpress Money to offer local and global money transfer services. Simply walk into your nearest DTB branch and transact at the dedicated money transfer counter.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-9"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading9One"&gt;
+&lt;h5 aria-contableols="collapse9One" aria-expanded="false" class="btn-link" data-target="#collapse9One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading9One" class="collapse" data-parent="#accordion-9" id="collapse9One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Send and receive money worldwide through reliable international money transfer service providers&lt;/li&gt;
+	&lt;li&gt;Funds are available for pick-up within minutes&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading9Two"&gt;
+&lt;h5 aria-contableols="collapse9Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse9Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading9Two" class="collapse" data-parent="#accordion-9" id="collapse9Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency - Kenya shillings (conversion rates are available for all currencies)&lt;/li&gt;
+	&lt;li&gt;Functionalities -
+	&lt;ul&gt;&lt;li&gt;Bank deposit (Worldremit and Western Union)&lt;/li&gt;
+		&lt;li&gt;Cash pick-up&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Channels - DTB branches and DTB agent outlets&lt;/li&gt;
+	&lt;li&gt;Documentation requirement -
+	&lt;ul&gt;&lt;li&gt;Customer valid identification document&lt;/li&gt;
+		&lt;li&gt;Transaction reference number for receivable transactions&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading9Three"&gt;
+&lt;h5 aria-contableols="collapse9Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse9Three" data-toggle="collapse"&gt;Charges&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading9Three" class="collapse" data-parent="#accordion-9" id="collapse9Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Western Union&lt;/strong&gt;
+
+	&lt;div class="table-responsive"&gt;
+	&lt;table class="table"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;From 0 to 8,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 100&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 8,001 to 16,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 400&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 16,001 to 24,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 500&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 24,001 to 32,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 800&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 32,001 to 48,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 1,000&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 48,001 to 64,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 1,200&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 64,001 to 80,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 1,600&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 80,001 to 96,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 2,000&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 96,001 to 100,001&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 2,800&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;MoneyGram&lt;/strong&gt;
+	&lt;div class="table-responsive"&gt;
+	&lt;table class="table"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;From 0 to 8,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 95&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 8,001 to 16,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 385&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 16,001 to 24,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 485&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 24,001 to 32,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 775&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 32,001 to 48,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 970&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 48,001 to 64,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 1,165&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 64,001 to 80,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 1,550&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 80,001 to 96,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 1,950&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 96,001 to 160,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 2,700&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;XPress Money&lt;/strong&gt;
+	&lt;div class="table-responsive"&gt;
+	&lt;table class="table"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;From 0 to 10,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 375&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 10,001 to 15,000&lt;/td&gt;
+				&lt;td&gt;charge:5Kshs. 00&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 15,001 to 20,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 525&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 20,001 to 25,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 550&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 25,001 to 30,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 575&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 30,001 to 50,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 600&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 50,001 to 125,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 625&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 125,001 to 175,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 650&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 175,001 to 250,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 700&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From 250,001 to 350,000&lt;/td&gt;
+				&lt;td&gt;charge: Kshs. 750&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;1&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/114" hreflang="en"&gt;Money Transfer&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sat, 01 Jun 2019 18:11:06 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">607 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

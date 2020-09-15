@@ -1,0 +1,9 @@
+.icon-armort-link{
+	cursor: pointer !important;
+}
+.not-show,#results{
+  display:none;
+}
+.show{
+  display:block;
+}.opacity{height:0;opacity:0;overflow: auto;}.calc-details-table{width:90%;max-width:100%;margin-bottom:border-collapse: collapse;margin:auto;border-collapse:collapse;margin-top:0}.calc-details-table thead th{background:#e71a3d;padding:10px;color:#fff}.calc-details-table td{border:1px solid #e71a3d;padding:10px;vertical-align:top}.calc-details-table td.bold-text{font-weight:700}.calc-details-table.second-table{margin-top:60px}#chartContainer{width:100%}div#chartContainer text{font-family:Nunito,sans-serif!important}@media only screen and (max-width:600px){.calc-details-table td{font-size:10px;padding:2px}.calc-details-table td.header{background:#e71a3d;color:#fff}.calc-details-table p{font-size:10px}}

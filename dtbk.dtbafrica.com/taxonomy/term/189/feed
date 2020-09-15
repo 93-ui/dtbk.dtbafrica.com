@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/189">
+  <channel>
+    <title>General Insurance</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/189</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Group Life</title>
+  <link>https://dtbk.dtbafrica.com/services/general-insurance/Group%20Life</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Group Life&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/189" hreflang="en"&gt;General Insurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 07/06/2020 - 15:28&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p style="padding:0"&gt;An employee protection cover for DTB SME customers that pays a lumpsum (sum assured) in case of 3 major risk events:&lt;/p&gt;
+
+&lt;div class="card-body"&gt;
+&lt;ul type="none"&gt;&lt;li style="border:0"&gt;
+	&lt;ul type=" "&gt;&lt;li&gt;Death of an employee&lt;/li&gt;
+		&lt;li&gt;Permanent disability of an employee&lt;/li&gt;
+		&lt;li&gt;A Critical illness diagnosis&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li style="border:0"&gt;This product has a free last expense funeral cover.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+
+&lt;div id="accordion-1"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1One"&gt;
+&lt;h5 aria-contableols="collapse1One" aria-expanded="false" class="btn-link" data-target="#collapse1One" data-toggle="collapse"&gt;Key Terms&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1One" class="collapse" data-parent="#accordion-1" id="collapse1One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul type="none"&gt;&lt;li&gt;Group Life
+	&lt;ul type=""&gt;&lt;li&gt;Means life cover for groups in which the price of the cover depends more on average age of the group rather than individual age. Eligible Groups are mainly those having employer employee relationships&lt;/li&gt;
+		&lt;li&gt;E.g. SMEs, Sole proprietors, Medium sized companies, any other legally registered entity&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Permanent Disability
+	&lt;ul type=""&gt;&lt;li&gt;Means life cover for groups in which the price of the cover depends more on average age of the group rather than individual age. Eligible Groups are mainly those having employer employee relationships&lt;/li&gt;
+		&lt;li&gt;E.g. Driver losing his sight or artist losing his hands&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Critical Disability
+	&lt;ul type=""&gt;&lt;li&gt;Means life cover for groups in which the price of the cover depends more on average age of the group rather than individual age. Eligible Groups are mainly those having employer employee relationships&lt;/li&gt;
+		&lt;li&gt;E.g. Heart Attack, Open Heart Surgery, Aortic Surgery, Cancer, Renal/Kidney Failure, Paraplegia, Blindness, Major organ transplant, Parkinson.&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1Two"&gt;
+&lt;h5 aria-contableols="collapse1Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse1Two" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1Two" class="collapse" data-parent="#accordion-1" id="collapse1Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Claims paid within 5 days&lt;/li&gt;
+	&lt;li&gt;Funeral benefit paid within 48 Hrs.&lt;/li&gt;
+	&lt;li&gt;Pays a lump sum in case of Death, PTD, critical illness, worldwide coverage, No medicals below 6mn&lt;/li&gt;
+	&lt;li&gt;Relieves out of pocket liability for SME owners&lt;/li&gt;
+	&lt;li&gt;Supports SMEs to attract quality talent through a rich employee benefit package&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading1Three"&gt;
+&lt;h5 aria-contableols="collapse1Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse1Three" data-toggle="collapse"&gt;Requirements&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading1Three" class="collapse" data-parent="#accordion-1" id="collapse1Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Proposal for form&lt;/li&gt;
+	&lt;li&gt;Members/Employee list with names &amp; dates of birth&lt;/li&gt;
+	&lt;li&gt;KRA Pin where applicable&lt;/li&gt;
+	&lt;li&gt;Registration Certificate&lt;/li&gt;
+	&lt;li&gt;Premium proof of payment&lt;/li&gt;
+	&lt;li&gt;Corresponding quote&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;2&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/190" hreflang="en"&gt;General Insurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-vnd-openxmlformats-officedocument-spreadsheetml-sheet file--x-office-spreadsheet"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2020-07/Premium%20Calculator.xlsx" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=42635" title="Premium Calculator.xlsx"&gt;Download Premium Calculator&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2020-07/Application%20Form.pdf" type="application/pdf; length=83399" title="Application Form.pdf"&gt;Download Application Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2020-07/Claim%20Form.pdf" type="application/pdf; length=353315" title="Claim Form.pdf"&gt;Download Claim Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Mon, 06 Jul 2020 12:28:33 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1094 at https://dtbk.dtbafrica.com</guid>
+    </item>
+<item>
+  <title>Defender</title>
+  <link>https://dtbk.dtbafrica.com/node/1089</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Defender&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/189" hreflang="en"&gt;General Insurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 07/06/2020 - 10:30&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;Defender policy provides protection for unpredictable eventualities like loss or damage of an asset.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-10"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading10One"&gt;
+&lt;h5 aria-contableols="collapse10One" aria-expanded="false" class="btn-link" data-target="#collapse10One" data-toggle="collapse"&gt;Products&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading10One" class="collapse" data-parent="#accordion-10" id="collapse10One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Fire &amp; special perils&lt;/li&gt;
+	&lt;li&gt;Burglary&lt;/li&gt;
+	&lt;li&gt;All risks- Office equipment&lt;/li&gt;
+	&lt;li&gt;Computer (Electronic equipment)&lt;/li&gt;
+	&lt;li&gt;Fidelity Guarantee&lt;/li&gt;
+	&lt;li&gt;Money&lt;/li&gt;
+	&lt;li&gt;Work injury benefits act &amp; Employers liability&lt;/li&gt;
+	&lt;li&gt;Public liability&lt;/li&gt;
+	&lt;li&gt;Domestic package&lt;/li&gt;
+	&lt;li&gt;Goods in transit&lt;/li&gt;
+	&lt;li&gt;Private car&lt;/li&gt;
+	&lt;li&gt;Commercial vehicle- Own goods&lt;/li&gt;
+	&lt;li&gt;Commercial vehicle- General cartage&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading10Two"&gt;
+&lt;h5 aria-contableols="collapse10Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse10Two" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading10Two" class="collapse" data-parent="#accordion-10" id="collapse10Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Cover against fire, lightning, explosion, earthquake etc.&lt;/li&gt;
+	&lt;li&gt;Cover against theft, burglary etc.&lt;/li&gt;
+	&lt;li&gt;Cover for hardware &amp; software&lt;/li&gt;
+	&lt;li&gt;Indemnity against direct pecuniary loss resulting from fraud or dishonesty of employees in the course of employment&lt;/li&gt;
+	&lt;li&gt;Cover for money in transit, locked safe, with authorized staff or director etc.&lt;/li&gt;
+	&lt;li&gt;Cover for medical and funeral expenses for employees&lt;/li&gt;
+	&lt;li&gt;Political Violence and Terrorism Cover&lt;/li&gt;
+	&lt;li&gt;Cover for goods while being transported&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading10Three"&gt;
+&lt;h5 aria-contableols="collapse10Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse10Three" data-toggle="collapse"&gt;Main Exclusions&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading10Three" class="collapse" data-parent="#accordion-10" id="collapse10Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Loss of or damage to livestock, motor vehicles or motorcycles&lt;/li&gt;
+	&lt;li&gt;Bullion or unset precious stones&lt;/li&gt;
+	&lt;li&gt;Any curiosity or work of art for an amount exceeding Kes 10,000&lt;/li&gt;
+	&lt;li&gt;Manuscripts, plans, drawings, designs, patterns models or moulds&lt;/li&gt;
+	&lt;li&gt;Explosives&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;1&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/190" hreflang="en"&gt;General Insurance&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-application-form field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;application form&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://dtbk.dtbafrica.com/sites/dtbk.dtbafrica.com/files/2020-07/Defender%20Proposal%20form_0.pdf" type="application/pdf; length=135021" title="Defender Proposal form_0.pdf"&gt;Download Defender Proposal Form&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Mon, 06 Jul 2020 07:30:30 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1089 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>

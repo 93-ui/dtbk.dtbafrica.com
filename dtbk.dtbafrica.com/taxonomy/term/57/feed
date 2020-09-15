@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtbk.dtbafrica.com/taxonomy/term/57">
+  <channel>
+    <title>salary_account</title>
+    <link>https://dtbk.dtbafrica.com/taxonomy/term/57</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>DTB Salary Account</title>
+  <link>https://dtbk.dtbafrica.com/savings/salary_account</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DTB Salary Account&lt;/span&gt;
+  &lt;div class="field field--name-field-product-term field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product term&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/19" hreflang="en"&gt;DTB Salary Account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://dtbk.dtbafrica.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 05/28/2019 - 15:13&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;div class="product-desc"&gt;
+&lt;p&gt;This is a transactional account for the salaried individual. Customers can opt to have a debit card for this account and salary processing for the corporate client is carried out through the internet banking platform&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id="accordion-7"&gt;
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading7One"&gt;
+&lt;h5 aria-controls="collapse7One" aria-expanded="false" class="btn-link" data-target="#collapse7One" data-toggle="collapse"&gt;Benefits&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading7One" class="collapse" data-parent="#accordion-7" id="collapse7One"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;No minimum account balance&lt;/li&gt;
+	&lt;li&gt;Free monthly e-statements&lt;/li&gt;
+	&lt;li&gt;Access to a debit card that can be used for ATM and POS transactions&lt;/li&gt;
+	&lt;li&gt;Access to DTB’s Internet and mobile banking platforms&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading7Two"&gt;
+&lt;h5 aria-controls="collapse7Two" aria-expanded="false" class="btn-link collapsed" data-target="#collapse7Two" data-toggle="collapse"&gt;Features&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading7Two" class="collapse" data-parent="#accordion-7" id="collapse7Two"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Currency - Kenya shillings&lt;/li&gt;
+	&lt;li&gt;Opening amount - nil&lt;/li&gt;
+	&lt;li&gt;Minimum balance - nil&lt;/li&gt;
+	&lt;li&gt;Interest rate - N/A&lt;/li&gt;
+	&lt;li&gt;Channels  / account &amp; information access - debit card, mobile banking, internet banking, e-statements&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card"&gt;
+&lt;div class="card-header" id="heading7Three"&gt;
+&lt;h5 aria-controls="collapse7Three" aria-expanded="false" class="btn-link collapsed" data-target="#collapse7Three" data-toggle="collapse"&gt;Charges&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby="heading7Three" class="collapse" data-parent="#accordion-7" id="collapse7Three"&gt;
+&lt;div class="card-body"&gt;
+&lt;ul&gt;&lt;li&gt;Debit card:
+	&lt;ul&gt;&lt;li&gt;Debit card: - Visa classic Kshs. 200&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Card replacement - Kshs. 600&lt;/li&gt;
+	&lt;li&gt;Withdrawal fees:
+	&lt;ul&gt;&lt;li&gt;Withdrawals from DTB ATMs - Kshs. 30&lt;/li&gt;
+		&lt;li&gt;Withdrawals from Pesa Point and Kenswitch ATMs - Kshs. 70&lt;/li&gt;
+		&lt;li&gt;Withdrawals from all other bank ATMs - Kshs. 200&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;0.25% cash handling fee (over Kshs. 1 million)&lt;/li&gt;
+	&lt;li&gt;Ledger fee (per transaction) - nil&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Note: * All charges are subject to applicable tax&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-product-id field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;product_id&lt;/div&gt;
+              &lt;div class="field__item"&gt;7&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-product-type field--type-entity-reference field--label-visually_hidden field--entity-reference-target-type-taxonomy-term clearfix"&gt;
+    &lt;div class="field__label"&gt;product type&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://dtbk.dtbafrica.com/taxonomy/term/57" hreflang="en"&gt;salary_account&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 28 May 2019 12:13:13 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">584 at https://dtbk.dtbafrica.com</guid>
+    </item>
+
+  </channel>
+</rss>
